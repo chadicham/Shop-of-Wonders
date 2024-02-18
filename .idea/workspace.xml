@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0be5f188-672e-4398-ae4e-d65eb6bbcc85" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/frontend/public/uploads/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/uploads/10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/uploads/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/uploads/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/uploads/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/uploads/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/uploads/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/uploads/9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/uploads/Baguette.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/uploads/Baguette1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/uploads/aok.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/uploads/assiette.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/uploads/attachtet.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/uploads/batears.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/uploads/cactus.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/uploads/cactusv.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/uploads/champi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/uploads/chaussurescheum.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/uploads/chaussureslobster.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/uploads/chaussuresnemo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/uploads/chaussuresshark.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/uploads/chienpoop.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/uploads/floconmag.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/uploads/kitaile.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/uploads/kitvaisselle.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/uploads/nounours.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/uploads/objetinsolite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/uploads/pullsze1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/uploads/pullsze13.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/uploads/robe.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/uploads/sac-papillon-paillettes-cuivre.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/uploads/tshirtblanc.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/uploads/tshirtnoir.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/uploads/tshirtrose.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/articlesImages/chapeau-magique.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/articlesImages/chaussettes-roses.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/articlesImages/porte-clé-kawai.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/app/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/articleItem/ArticleItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/articleList/ArticleList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/avatar/Avatar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/createArticle/CreateArticle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/footer/Footer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/header/Header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/modifyArticle/ModifyArticle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/navbar/Navbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/slider/Slider.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/slider/Slider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/spinner/Spinners.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/features/articles/articlesService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/features/articles/articlesSlice.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/features/auth/authService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/features/auth/authSlice.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/images/Baguette.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/images/Baguette1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/images/aok.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/images/assiette.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/images/attachtet.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/images/batears.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/images/brosse.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/images/cactus.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/images/cactusv.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/images/champi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/images/chaussurescheum.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/images/chaussureslobster.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/images/chaussuresnemo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/images/chaussuresshark.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/images/chienpoop.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/images/floconmag.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/images/kitaile.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/images/kitvaisselle.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/images/logo-orange.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/images/logo-white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/images/nounours.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/images/objet insolite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/images/pullsze.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/images/pullsze1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/images/pullsze13.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/images/robe.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/images/sac-papillon-paillettes-cuivre.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/pages/accessories/Accessories.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/pages/articledetail/ArticleDetail.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/pages/clothing/Clothing.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/pages/editArticle/EditArticle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/pages/editArticle/oldEditArticle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/pages/error/error.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/pages/gifts/Gifts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/pages/home/Home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/pages/login/Login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/pages/offers/Offers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/pages/register/Register.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/pages/shoppingCart/ShoppingCart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/store/store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/tailwind.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/public/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/public/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/setupTests.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/frontend" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2ZRSPIAvMJ9SLKQbKWLOdxdU8u2" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Node.js.articlesSlice.js.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;18.17.1&quot;,
+    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;18.17.19&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/chadi/Documents/SAE/Module 5/shop-of-wonders/site/backend/middleware&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Applications/WebStorm.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/backend/middleware" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/frontend/public" />
+      <recent name="$PROJECT_DIR$/frontend/src/pages/editArticle" />
+      <recent name="$PROJECT_DIR$/frontend/src/articlesImages" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/frontend/src/components/app" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0be5f188-672e-4398-ae4e-d65eb6bbcc85" name="Changes" comment="" />
+      <created>1702383374856</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702383374856</updated>
+      <workItem from="1702383379098" duration="4012000" />
+      <workItem from="1702389233468" duration="514000" />
+      <workItem from="1702389775150" duration="11170000" />
+      <workItem from="1703525688327" duration="205000" />
+      <workItem from="1703525922752" duration="86000" />
+      <workItem from="1703526041702" duration="92000" />
+      <workItem from="1703526150334" duration="67230000" />
+      <workItem from="1705217513915" duration="1017000" />
+      <workItem from="1705229434501" duration="590000" />
+      <workItem from="1705310869444" duration="63000" />
+      <workItem from="1705929186888" duration="13158000" />
+      <workItem from="1706009744306" duration="20980000" />
+      <workItem from="1706528770263" duration="6098000" />
+      <workItem from="1706546034872" duration="175000" />
+      <workItem from="1706554659855" duration="599000" />
+      <workItem from="1706646236622" duration="1987000" />
+      <workItem from="1707122855096" duration="50595000" />
+      <workItem from="1707585370431" duration="1234000" />
+      <workItem from="1707586616721" duration="7000" />
+      <workItem from="1707586633243" duration="10256000" />
+      <workItem from="1707603764631" duration="576000" />
+      <workItem from="1707664638069" duration="40717000" />
+      <workItem from="1708275383878" duration="17180000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
