@@ -4,118 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0be5f188-672e-4398-ae4e-d65eb6bbcc85" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/frontend/public/uploads/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/public/uploads/10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/public/uploads/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/public/uploads/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/public/uploads/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/public/uploads/5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/public/uploads/8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/public/uploads/9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/public/uploads/Baguette.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/public/uploads/Baguette1.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/public/uploads/aok.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/public/uploads/assiette.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/public/uploads/attachtet.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/public/uploads/batears.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/public/uploads/cactus.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/public/uploads/cactusv.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/public/uploads/champi.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/public/uploads/chaussurescheum.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/public/uploads/chaussureslobster.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/public/uploads/chaussuresnemo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/public/uploads/chaussuresshark.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/public/uploads/chienpoop.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/public/uploads/floconmag.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/public/uploads/kitaile.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/public/uploads/kitvaisselle.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/public/uploads/nounours.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/public/uploads/objetinsolite.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/public/uploads/pullsze1.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/public/uploads/pullsze13.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/public/uploads/robe.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/public/uploads/sac-papillon-paillettes-cuivre.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/public/uploads/tshirtblanc.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/public/uploads/tshirtnoir.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/public/uploads/tshirtrose.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/articlesImages/chapeau-magique.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/articlesImages/chaussettes-roses.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/articlesImages/porte-clé-kawai.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/app/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/articleItem/ArticleItem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/articleList/ArticleList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/avatar/Avatar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/createArticle/CreateArticle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/footer/Footer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/header/Header.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/modifyArticle/ModifyArticle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/navbar/Navbar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/slider/Slider.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/slider/Slider.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/spinner/Spinners.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/features/articles/articlesService.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/features/articles/articlesSlice.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/features/auth/authService.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/features/auth/authSlice.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/images/Baguette.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/images/Baguette1.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/images/aok.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/images/assiette.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/images/attachtet.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/images/batears.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/images/brosse.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/images/cactus.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/images/cactusv.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/images/champi.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/images/chaussurescheum.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/images/chaussureslobster.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/images/chaussuresnemo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/images/chaussuresshark.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/images/chienpoop.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/images/floconmag.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/images/kitaile.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/images/kitvaisselle.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/images/logo-orange.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/images/logo-white.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/images/nounours.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/images/objet insolite.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/images/pullsze.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/images/pullsze1.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/images/pullsze13.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/images/robe.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/images/sac-papillon-paillettes-cuivre.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/pages/accessories/Accessories.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/pages/articledetail/ArticleDetail.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/pages/clothing/Clothing.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/pages/editArticle/EditArticle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/pages/editArticle/oldEditArticle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/pages/error/error.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/pages/gifts/Gifts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/pages/home/Home.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/pages/login/Login.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/pages/offers/Offers.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/pages/register/Register.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/pages/shoppingCart/ShoppingCart.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/store/store.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/tailwind.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend" beforeDir="false" afterPath="$PROJECT_DIR$/frontend" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/public/logo192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/public/logo512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/public/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/public/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/reportWebVitals.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/setupTests.js" beforeDir="false" />
-    </list>
+    <list default="true" id="0be5f188-672e-4398-ae4e-d65eb6bbcc85" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -209,6 +98,7 @@
       <workItem from="1707603764631" duration="576000" />
       <workItem from="1707664638069" duration="40717000" />
       <workItem from="1708275383878" duration="19252000" />
+      <workItem from="1708353155693" duration="322000" />
     </task>
     <servers />
   </component>
