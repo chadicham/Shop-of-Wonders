@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0be5f188-672e-4398-ae4e-d65eb6bbcc85" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/backend/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/frontend/public/uploads/1.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/frontend/public/uploads/10.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/frontend/public/uploads/2.png" afterDir="false" />
@@ -100,7 +99,6 @@
       <change afterPath="$PROJECT_DIR$/frontend/src/pages/shoppingCart/ShoppingCart.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/frontend/src/store/store.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/frontend/tailwind.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend" beforeDir="false" afterPath="$PROJECT_DIR$/frontend" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package.json" afterDir="false" />
@@ -131,7 +129,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/frontend" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -210,7 +208,7 @@
       <workItem from="1707586633243" duration="10256000" />
       <workItem from="1707603764631" duration="576000" />
       <workItem from="1707664638069" duration="40717000" />
-      <workItem from="1708275383878" duration="18961000" />
+      <workItem from="1708275383878" duration="19252000" />
     </task>
     <servers />
   </component>
